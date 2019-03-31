@@ -12,4 +12,4 @@ def home():
 def hello():
     return 'About This Site'
 
-app.run(debug=True)
+app.run(debug=False)
